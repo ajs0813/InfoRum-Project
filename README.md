@@ -1,4 +1,10 @@
 ![localhost_](https://github.com/ajs0813/InfoRum-Project/assets/143467352/5a9da25c-6c5d-41cd-abf8-e00dccbd62bb)
+<b>Spring Boot를 이용한 포럼 형태의 정보 공유 게시판 인포럼 프로젝트의 메인화면입니다.</b>
+<br><br>
+메인 화면에서는 각각의 주제 게시판, 회원 영역, 마이페이지, 공지 게시판, 문의 게시판, 회원관리 영역 등을 확인할 수 있습니다.
+<br><br><br><br><br>
+
+
 ![join](https://github.com/ajs0813/InfoRum-Project/assets/143467352/b634b6e1-618a-4289-8cc6-e329fbe99663)
 ![login](https://github.com/ajs0813/InfoRum-Project/assets/143467352/df264960-c3ee-4921-86de-494a22f4d154)
 ![board](https://github.com/ajs0813/InfoRum-Project/assets/143467352/a4779144-a120-4ba8-8d35-b02d34b6baf9)
