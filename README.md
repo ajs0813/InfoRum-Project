@@ -1,3 +1,10 @@
+![ppt1](https://github.com/ajs0813/InfoRum-Project/assets/143467352/32e74c95-3c2b-4df7-b7d6-64af2b99fca0)
+![ppt2](https://github.com/ajs0813/InfoRum-Project/assets/143467352/ea8e7e2a-a09f-42c8-98d7-9fe3e52634c1)
+![ppt3](https://github.com/ajs0813/InfoRum-Project/assets/143467352/b5b10b46-f83c-4e9c-ac4d-884b2dc09851)
+![ppt4](https://github.com/ajs0813/InfoRum-Project/assets/143467352/5128e6ac-fbbc-4305-97f8-9ac4d11dfcca)
+![ppt5](https://github.com/ajs0813/InfoRum-Project/assets/143467352/2de44463-9c96-47f2-bc91-9162b5330b70)
+
+
 ![localhost_](https://github.com/ajs0813/InfoRum-Project/assets/143467352/5a9da25c-6c5d-41cd-abf8-e00dccbd62bb)
 <b>Spring Boot를 이용한 포럼 형태의 정보 공유 게시판 인포럼 프로젝트의 메인화면입니다.</b>
 <br><br>
