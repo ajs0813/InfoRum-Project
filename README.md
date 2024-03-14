@@ -3,23 +3,35 @@
 ![ppt3](https://github.com/ajs0813/InfoRum-Project/assets/143467352/b5b10b46-f83c-4e9c-ac4d-884b2dc09851)
 ![ppt4](https://github.com/ajs0813/InfoRum-Project/assets/143467352/5128e6ac-fbbc-4305-97f8-9ac4d11dfcca)
 ![ppt5](https://github.com/ajs0813/InfoRum-Project/assets/143467352/2de44463-9c96-47f2-bc91-9162b5330b70)
-
+<br><br><br><br><br><br><br>
 
 ![localhost_](https://github.com/ajs0813/InfoRum-Project/assets/143467352/5a9da25c-6c5d-41cd-abf8-e00dccbd62bb)
 <b>Spring Boot를 이용한 포럼 형태의 정보 공유 게시판 인포럼 프로젝트의 메인화면입니다.</b>
 <br><br>
 메인 화면에서는 각각의 주제 게시판, 회원 영역, 마이페이지, 공지 게시판, 문의 게시판, 회원관리 영역 등을 확인할 수 있습니다.
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 
 ![join](https://github.com/ajs0813/InfoRum-Project/assets/143467352/b634b6e1-618a-4289-8cc6-e329fbe99663)
+<br><br><br><br><br><br><br>
 ![login](https://github.com/ajs0813/InfoRum-Project/assets/143467352/df264960-c3ee-4921-86de-494a22f4d154)
-![board](https://github.com/ajs0813/InfoRum-Project/assets/143467352/a4779144-a120-4ba8-8d35-b02d34b6baf9)
-![user](https://github.com/ajs0813/InfoRum-Project/assets/143467352/b4d68e24-9a02-464e-84af-fb0739cd9416)
-![notice](https://github.com/ajs0813/InfoRum-Project/assets/143467352/5a47327d-e16d-4405-8219-74efd1102368)
-![notice2](https://github.com/ajs0813/InfoRum-Project/assets/143467352/8273d392-876f-40ab-9900-db50260c7d64)
-![notice3](https://github.com/ajs0813/InfoRum-Project/assets/143467352/1218e35e-f15c-4419-8e67-e9a90aa5c742)
-![inquiry](https://github.com/ajs0813/InfoRum-Project/assets/143467352/8c686515-6ed8-48e2-bad0-710dd9b7e5fd)
-![inquiry2](https://github.com/ajs0813/InfoRum-Project/assets/143467352/cb94c7a7-03ef-402e-8413-cb142788b332)
-![inquiry3](https://github.com/ajs0813/InfoRum-Project/assets/143467352/a4f63e81-fa76-45e1-99bb-36ff114bc9ba)
+<br><br><br><br><br><br><br>
 ![profile](https://github.com/ajs0813/InfoRum-Project/assets/143467352/6734f970-0126-485c-851c-4b5e8a9d8ef8)
+<br><br><br><br><br><br><br>
+![board](https://github.com/ajs0813/InfoRum-Project/assets/143467352/a4779144-a120-4ba8-8d35-b02d34b6baf9)
+<br><br><br><br><br><br><br>
+![user](https://github.com/ajs0813/InfoRum-Project/assets/143467352/b4d68e24-9a02-464e-84af-fb0739cd9416)
+<br><br><br><br><br><br><br>
+![notice](https://github.com/ajs0813/InfoRum-Project/assets/143467352/5a47327d-e16d-4405-8219-74efd1102368)
+<br><br><br><br><br><br><br>
+![notice2](https://github.com/ajs0813/InfoRum-Project/assets/143467352/8273d392-876f-40ab-9900-db50260c7d64)
+<br><br><br><br><br><br><br>
+![notice3](https://github.com/ajs0813/InfoRum-Project/assets/143467352/1218e35e-f15c-4419-8e67-e9a90aa5c742)
+<br><br><br><br><br><br><br>
+![inquiry](https://github.com/ajs0813/InfoRum-Project/assets/143467352/8c686515-6ed8-48e2-bad0-710dd9b7e5fd)
+<br><br><br><br><br><br><br>
+![inquiry2](https://github.com/ajs0813/InfoRum-Project/assets/143467352/cb94c7a7-03ef-402e-8413-cb142788b332)
+<br><br><br><br><br><br><br>
+![inquiry3](https://github.com/ajs0813/InfoRum-Project/assets/143467352/a4f63e81-fa76-45e1-99bb-36ff114bc9ba)
+<br><br><br><br><br><br><br>
+
