@@ -11,35 +11,50 @@
 <br><br>
 메인 화면에서는 각각의 주제 게시판, 회원 영역, 마이페이지, 공지 게시판, 문의 게시판, 회원관리 영역 등을 확인할 수 있습니다.
 ***
-
 <br><br><br><br><br><br><br>
 
+***
 ![login](https://github.com/ajs0813/InfoRum-Project/assets/143467352/df264960-c3ee-4921-86de-494a22f4d154)
 <b>로그인 페이지</b>
 <br><br>
 DB 회원 테이블에 담겨있는 데이터를 바탕으로 ID와 PW의 값이 일치한다면 회원 세션을 부여하여 회원으로서의 기능을 활성화시킵니다.
+***
 <br><br><br><br><br><br><br>
 
+***
 ![join](https://github.com/ajs0813/InfoRum-Project/assets/143467352/b634b6e1-618a-4289-8cc6-e329fbe99663)
 <b>회원가입 페이지</b>
 <br><br>
 유저가 입력한 정보를 바탕으로 DB 회원 테이블에 정보를 기록하고 이후 로그인 할 때의 정보로 활용됩니다.
+***
 <br><br><br><br><br><br><br>
 
+***
 ![profile](https://github.com/ajs0813/InfoRum-Project/assets/143467352/6734f970-0126-485c-851c-4b5e8a9d8ef8)
 <b>프로필 페이지</b>
 <br><br>
 유저가 회원가입 당시 작성한 정보를 수정할 수 있는 페이지이며 기본 프로필 사진을 사용자가 원하는 사진으로 변경할 수 있습니다.
+***
 <br><br><br><br><br><br><br>
 
+***
 ![board](https://github.com/ajs0813/InfoRum-Project/assets/143467352/a4779144-a120-4ba8-8d35-b02d34b6baf9)
 <b>게시판 페이지</b>
 <br><br>
 각 게시판의 기본적인 구성은 동일하며 AJAX를 이용한 비동기 방식으로 별도의 페이지 이동 없이 글쓰기, 수정, 댓글 입력이 가능하고
 <br><br>
-Forum 게시판 형식의 무한 페이지 스크롤 기능으로 최신글은 가장 첫페이지에 올라오고 앞서 작성한 게시글 마다 아래로 쌓이는 형식을 가지고 있습니다.
+Forum 게시판 형식의 무한 페이지 스크롤 기능으로 최신글은 가장 첫페이지에 올라오고 앞서 작성한 게시글은 아래로 쌓이는 형식을 가지고 있습니다.
+***
 <br><br><br><br><br><br><br>
+
+***
 ![user](https://github.com/ajs0813/InfoRum-Project/assets/143467352/b4d68e24-9a02-464e-84af-fb0739cd9416)
+<b>관리자 페이지</b>
+<br><br>
+DB에 기록되어 있는 관리자 계정의 아이디에는 일반 회원과 차별화 된 권한을 가지고 있으며 관리자 권한이 있는 아이디만 접속할 수 있는 페이지입니다.
+<br><br>
+이곳에서는 유저에게 부관리자 권한을 부여한다거나 강제 탈퇴 등의 행위를 할 수 있습니다.
+***
 <br><br><br><br><br><br><br>
 ![notice](https://github.com/ajs0813/InfoRum-Project/assets/143467352/5a47327d-e16d-4405-8219-74efd1102368)
 <br><br><br><br><br><br><br>
