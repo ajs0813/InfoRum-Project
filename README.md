@@ -51,21 +51,34 @@ Forum 게시판 형식의 무한 페이지 스크롤 기능으로 최신글은 �
 ![user](https://github.com/ajs0813/InfoRum-Project/assets/143467352/b4d68e24-9a02-464e-84af-fb0739cd9416)
 <b>관리자 페이지</b>
 <br><br>
-DB에 기록되어 있는 관리자 계정의 아이디에는 일반 회원과 차별화 된 권한을 가지고 있으며 관리자 권한이 있는 아이디만 접속할 수 있는 페이지입니다.
+DB에 기록되어 있는 관리자 계정의 아이디에는 일반 회원과 차별화 된 권한을 가지고 있으며 관리자 권한이 있는 아이디만이 접속할 수 있는 페이지입니다.
 <br><br>
 이곳에서는 유저에게 부관리자 권한을 부여한다거나 강제 탈퇴 등의 행위를 할 수 있습니다.
 ***
 <br><br><br><br><br><br><br>
+
+***
 ![notice](https://github.com/ajs0813/InfoRum-Project/assets/143467352/5a47327d-e16d-4405-8219-74efd1102368)
 <br><br><br><br><br><br><br>
 ![notice2](https://github.com/ajs0813/InfoRum-Project/assets/143467352/8273d392-876f-40ab-9900-db50260c7d64)
 <br><br><br><br><br><br><br>
 ![notice3](https://github.com/ajs0813/InfoRum-Project/assets/143467352/1218e35e-f15c-4419-8e67-e9a90aa5c742)
+<b>공지사항 페이지</b>
+<br><br>
+관리자의 계정으로 공지글을 작성, 수정, 삭제 할 수 있는 공간으로 일반 회원은 글을 보는 것 밖에 할 수 없습니다.
+***
 <br><br><br><br><br><br><br>
+
+***
 ![inquiry](https://github.com/ajs0813/InfoRum-Project/assets/143467352/8c686515-6ed8-48e2-bad0-710dd9b7e5fd)
 <br><br><br><br><br><br><br>
 ![inquiry2](https://github.com/ajs0813/InfoRum-Project/assets/143467352/cb94c7a7-03ef-402e-8413-cb142788b332)
 <br><br><br><br><br><br><br>
 ![inquiry3](https://github.com/ajs0813/InfoRum-Project/assets/143467352/a4f63e81-fa76-45e1-99bb-36ff114bc9ba)
+<b>문의사항 페이지</b>
+<br><br>
+일반 회원이 관리자에게 1대1 문의를 할 수 있는 페이지로 회원이 작성한 글과 관리자의 답변 사항은 당사자만이 확인할 수 있는 페이지입니다.
+<br><br> 
+***
 <br><br><br><br><br><br><br>
 
