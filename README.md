@@ -11,10 +11,15 @@
 메인 화면에서는 각각의 주제 게시판, 회원 영역, 마이페이지, 공지 게시판, 문의 게시판, 회원관리 영역 등을 확인할 수 있습니다.
 <br><br><br><br><br><br><br>
 
-
-![join](https://github.com/ajs0813/InfoRum-Project/assets/143467352/b634b6e1-618a-4289-8cc6-e329fbe99663)
-<br><br><br><br><br><br><br>
 ![login](https://github.com/ajs0813/InfoRum-Project/assets/143467352/df264960-c3ee-4921-86de-494a22f4d154)
+<b>로그인 페이지</b>
+<br><br>
+DB 회원 테이블에 담겨있는 데이터를 바탕으로 ID와 PW의 값이 일치한다면 회원 세션을 부여하여 회원으로서의 기능을 활성화시킵니다.
+<br><br><br><br><br><br><br>
+![join](https://github.com/ajs0813/InfoRum-Project/assets/143467352/b634b6e1-618a-4289-8cc6-e329fbe99663)
+<b>회원가입 페이지</b>
+<br><br>
+유저가 입력한 정보를 바탕으로 DB 회원 테이블에 정보를 기록하고 이후 로그인 할 때의 정보로 활용됩니다.
 <br><br><br><br><br><br><br>
 ![profile](https://github.com/ajs0813/InfoRum-Project/assets/143467352/6734f970-0126-485c-851c-4b5e8a9d8ef8)
 <br><br><br><br><br><br><br>
